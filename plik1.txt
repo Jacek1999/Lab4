@@ -1,1 +1,2 @@
 to jest pierwszy plik
+na głownej gałęzi
